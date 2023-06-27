@@ -1,0 +1,5 @@
+1. create folder project
+2. type on terminal 'go mod init _yourprojectname_'
+3. type on terminal 'go get github.com/go-sql-driver/mysql'
+4. type on terminal 'go get github.com/gin-gonic/gin'
+5. type on terminal 'go get github.com/jinzhu/gorm'
